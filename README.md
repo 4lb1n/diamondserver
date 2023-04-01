@@ -1,0 +1,2 @@
+# diamondserver
+Server Csgo
